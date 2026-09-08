@@ -1,0 +1,27 @@
+
+
+ _________________________________________________________________________________________________________________________
+|                                                                                                                         |
+|**You can type cmds / cmd or commands in the program to get the list so you don't have to Come here again and again** :D |
+|_________________________________________________________________________________________________________________________|
+
+
+
+The Commands Below Will help you to use The Actual Program -------->
+
+1. play --> use the command "play" to play a song you should use the command in the way like  play Billie Jean   (But first you have to insert some songs in the folder
+            named as "This Should be the place where your music should be".
+
+2. stop --> Use "stop" to stop the music.
+
+
+3. date --> type "date" to get the current date and day.
+
+
+4. baseball --> A baseball game rules will be told in the game, use command "baseball" to play (You only have 1 chance).
+
+
+5. weather --> Use command "weather" to check the current weather.
+
+
+6. generate password --> Use command "generate password" to use a password generator.

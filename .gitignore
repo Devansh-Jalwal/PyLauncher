@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+venv/
+.env
+This Should Be the place where your Music should Be/
+*.mp3
+*.wav
+*.mp4
+.DS_Store
+Thumbs.db
