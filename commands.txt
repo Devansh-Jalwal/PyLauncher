@@ -25,3 +25,8 @@ The Commands Below Will help you to use The Actual Program -------->
 
 
 6. generate password --> Use command "generate password" to use a password generator.
+
+
+7. Music/Musik --> Use command 'musik' or 'music' to play music from the internet. If you open the folder (Launcher) in VS code then the .mp3 file will also 
+   get downloaded there but now worries it will autoclean after the music stops, You can also download the music permanently by just copying the mp3 from the folder
+   and pasting it somewhere else before the music stops.

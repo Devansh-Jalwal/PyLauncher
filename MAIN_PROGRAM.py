@@ -172,7 +172,7 @@ while True:
  elif x == "command":
      print("""The Commands Below Will help you to use The Actual Program -------->
  
- 1. play --> use the command "play" to play a song you should use the command in the way like  play Billie Jean   (But first you have to insert some songs in the folder
+ 1. play(Play Music Locally) --> use the command "play" to play a song you should use the command in the way like  'play Billie Jean'   (But first you have to insert some songs in the folder
              named as "This Should be the place where your music should be".
  
  2. stop --> Use "stop" to stop the music.
@@ -187,11 +187,21 @@ while True:
  5. weather --> Use command "weather" to check the current weather.
  
  
- 6. generate password --> Use command "generate password" to use a password generator.""")
+ 6. generate password --> Use command "generate password" to use a password generator.
+
+ 
+ 7. Musik(play music from the internet) --> using command 'musik' or 'music',you can play any song from the internet and also if you open the folder in VS code you will see the .mp3 file of that song you search.. if you Just do nothing it will auto-clean no need to worry about storage but if you want to download that then you can do it y just copying that and paste it somewhere else before the song ends up.(THIS IS ONLY FOR PERSONAL USE!!!)""")
+ 
  
 
-
-          
+ elif x == 'music':
+    time.sleep(0.5)
+    print("Opening PyMusik...")
+    run_program("PyMusik(V1.0).py")
+ elif x == 'musik':
+    time.sleep(0.5)
+    print("Opening PyMusik...")
+    run_program("PyMusik(V1.0).py")          
  elif x == "what is the time?":
     print(timenow.strftime("The Time Currently is: %I:%M  %P"))
  elif x == "what is the time":

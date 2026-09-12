@@ -7,5 +7,7 @@ This Should Be the place where your Music should Be/
 *.mp3
 *.wav
 *.mp4
+*.webm
+*.m4a
 .DS_Store
 Thumbs.db

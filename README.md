@@ -12,7 +12,7 @@ Before running the program, ensure you have the following installed:
 1. **Visual Studio Code** (or your preferred IDE)
 2. **Python 3.11 or 3.12** 
    * ⚠️ *Note: Python versions 3.13 and above are currently not supported.*
-3) If you have a new version just know that older versions have more library suppot so **3.12 is currently better than the latest ones** :D
+3. If you have a new version just know that older versions have more library suppot so **3.12 is currently better than the latest ones** :D
 
 ## 🚀 How To Run
 
